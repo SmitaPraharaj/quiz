@@ -1,4 +1,4 @@
-const API_BASE = '/api';
+const API_BASE = 'https://quiz-8skn.onrender.com';
 
 function getToken() {
   return localStorage.getItem('quiz_token');
